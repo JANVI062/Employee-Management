@@ -1,0 +1,11 @@
+1|Rahul|30|Male|Clerk|50000|2021/6/2
+2|Garima|30|Female|Lecturer|45000|2010/5/19
+3|Sakshi|25|Female|AP|15000|2016/11/22
+4|Harsh|22|Male|Clerk|25000|2013/7/6
+5|Riya|25|Female|Manager|70000|2005/10/9
+6|Hritik|29|Male|AP|34000|2020/2/27
+7|Nitesh|40|Male|Senior_Manager|78000|2014/6/14
+8|Tanya|21|Female|Lecturer|40000|2010/11/15
+9|Rohan|32|Male|Manager|67000|2019/8/10
+10|Harsh|39|Male|AP|45600|2015/10/26
+11|Sneha|28|Female|Professor|23400|2020/12/18
