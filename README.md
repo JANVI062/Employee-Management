@@ -28,4 +28,6 @@ This operation counts the total no. of employees in a file.
 This operation displays the details of all employees but in case we want details of only a particular employee then it can be displayed by entering either Id, Name or Job of that employee.
 ### 6. DELETE Employee:
 Using this operation, we can delete the record by entering employee id of that particular employee.
-
+<br/> <br/>
+## Run using following command:
+1. bash project.sh
